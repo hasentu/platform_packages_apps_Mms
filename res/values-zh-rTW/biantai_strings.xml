@@ -52,11 +52,11 @@
 
     <!-- QuickMessage - Hint text in message body field when keyboard is exposed -->
     <!-- 快捷短信 - 当键盘出现时, 短信输入框中的提示信息 -->
-    <string name="type_to_reply_text_enter_to_send">輸入信息以回覆</string>
+    <string name="type_to_reply_text_enter_to_send">輸入訊息以回覆</string>
 
     <!-- QuickMessage - Toast -->
     <!-- 快捷短信 - Toast提示 -->
-    <string name="toast_sending_message">正在傳送信息</string>
+    <string name="toast_sending_message">正在傳送訊息</string>
 
     <!-- QuickMessage - Quick reply -->
     <!-- 快捷短信 - 快捷回复 -->
@@ -75,12 +75,12 @@
     <!-- Privacy mode -->
     <!-- 隐私模式 -->
     <string name="pref_title_notification_privacy_mode_enabled">私隱模式</string>
-    <string name="pref_summary_notification_privacy_mode_enabled">通知列隱藏傳送者和信息並禁用\'快捷回覆\'</string>
-    <string name="notification_single_title_privacy_mode">新信息</string>
-    <string name="notification_single_text_privacy_mode">1個未讀信息</string>
-    <string name="notification_multiple_title_privacy_mode">新信息</string>
-    <string name="notification_multiple_text_privacy_mode"><xliff:g id="number" example="3">%1$s</xliff:g>個未讀信息</string>
-    <string name="notification_ticker_privacy_mode">收到新信息</string>
+    <string name="pref_summary_notification_privacy_mode_enabled">狀態列隱藏傳送者和訊息並禁用\'快捷回覆\'</string>
+    <string name="notification_single_title_privacy_mode">新訊息</string>
+    <string name="notification_single_text_privacy_mode">1個未讀訊息</string>
+    <string name="notification_multiple_title_privacy_mode">新訊息</string>
+    <string name="notification_multiple_text_privacy_mode"><xliff:g id="number" example="3">%1$s</xliff:g>個未讀訊息</string>
+    <string name="notification_ticker_privacy_mode">收到新訊息</string>
 
     <!-- QUICKMESSAGE -->
     <!-- 快捷短信设置 -->
@@ -94,17 +94,17 @@
     <!-- Show pop-up -->
     <!-- 显示弹窗 -->
     <string name="pref_quickmessage_title">顯示彈窗</string>
-    <string name="pref_quickmessage_summary">新信息傳入時顯示快捷信息彈窗</string>
+    <string name="pref_quickmessage_summary">新訊息傳入時顯示快捷信息彈窗</string>
 
     <!-- Wake and unlock -->
     <!-- 唤醒并解锁 -->
     <string name="pref_wake_unlock_title">喚醒和解鎖</string>
-    <string name="pref_wake_unlock_summary">新信息傳入時喚醒並解鎖設備(僅適用於非安全鎖屏)</string>
+    <string name="pref_wake_unlock_summary">新訊息傳入時喚醒並解鎖設備(僅適用於非安全鎖屏)</string>
 
     <!-- Close all messages -->
     <!-- 关闭全部短信 -->
     <string name="pref_close_all_title">關閉所有</string>
-    <string name="pref_close_all_summary">關閉按鈕以關閉所有信息</string>
+    <string name="pref_close_all_summary">關閉按鈕以關閉所有訊息</string>
 
     <!-- SMS TEMPLATES -->
     <!-- 短信模板设置 -->
@@ -173,7 +173,7 @@
     <!-- 设置条目中短信分割计数器的布尔值选项 -->
     <string name="pref_title_sms_split_counter">拆分計數器</string>
     <!-- 设置条目中短信160字分割设置的布尔值选项的描述 -->
-    <string name="pref_summary_sms_split_counter">增加計數器至信息，如:(1/2)</string>
+    <string name="pref_summary_sms_split_counter">增加計數器至訊息，如:(1/2)</string>
 
     <!-- Multi recipients -->
     <!-- 短信群发 -->
@@ -199,7 +199,7 @@
     <string name="send_delay_10seconds">10 秒</string>
     <string name="send_delay_20seconds">20 秒</string>
     <string name="send_delay_30seconds">30 秒</string>
-    <string name="sent_countdown">信息傳送倒計時</string>
+    <string name="sent_countdown">訊息傳送倒計時</string>
 
     <!-- Context menu item on a message for marking as unread -->
     <!-- 短信的上下文菜单中的标记为未读条目 -->
