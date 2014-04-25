@@ -128,7 +128,7 @@
     <string name="template_not_present_error">無自定義的模板</string>
     <string name="template_not_present_error_title">錯誤</string>
     <string name="template_select">點選一個模板</string>
-    <string name="template_confirm_dialog_title">刪除?</string>
+    <string name="template_confirm_dialog_title">刪除？</string>
     <string name="gestures_already_present">一個類似的手勢已經與另一個模板關聯</string>
     <string name="select_template">點選模板</string>
 
@@ -206,7 +206,7 @@
     <string name="menu_as_unread">標記爲未讀</string>
     <!-- Mark as unread confirmation title -->
     <!-- 标记为未读确认标题 -->
-    <string name="confirm_mark_unread_dialog_title">標記爲未讀?</string>
+    <string name="confirm_mark_unread_dialog_title">標記爲未讀？</string>
     <!-- Mark a single conversation as unread confirmation dialog message -->
     <!-- 标记单一会话为未读确认文字 -->
     <string name="confirm_mark_unread_conversation">該會話將被標記爲未讀</string>
@@ -216,8 +216,8 @@
 
     <!-- Vibrate pattern -->
     <!-- 振动模式 -->
-    <string name="pref_title_mms_notification_vibrate_pattern">振動模式</string>
-    <string name="pref_summary_mms_notification_vibrate_pattern">調節振動模式</string>
+    <string name="pref_title_mms_notification_vibrate_pattern">震動模式</string>
+    <string name="pref_summary_mms_notification_vibrate_pattern">調節震動模式</string>
     <string name="pref_mms_notification_vibrate_normal">常規</string>
     <string name="pref_mms_notification_vibrate_med_vib">中時</string>
     <string name="pref_mms_notification_vibrate_long_vib">長時</string>
