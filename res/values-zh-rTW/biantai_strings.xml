@@ -94,12 +94,12 @@
     <!-- Show pop-up -->
     <!-- 显示弹窗 -->
     <string name="pref_quickmessage_title">顯示彈窗</string>
-    <string name="pref_quickmessage_summary">新訊息傳入時顯示快捷信息彈窗</string>
+    <string name="pref_quickmessage_summary">新訊息傳入時顯示快捷訊息彈窗</string>
 
     <!-- Wake and unlock -->
     <!-- 唤醒并解锁 -->
     <string name="pref_wake_unlock_title">喚醒和解鎖</string>
-    <string name="pref_wake_unlock_summary">新訊息傳入時喚醒並解鎖設備(僅適用於非安全鎖屏)</string>
+    <string name="pref_wake_unlock_summary">新訊息傳入時喚醒並解鎖設備(僅適用於非安全鎖定畫面)</string>
 
     <!-- Close all messages -->
     <!-- 关闭全部短信 -->
@@ -117,7 +117,7 @@
     <string name="template_explanation">插入或修改文本并自定義一個手勢以關聯此模板</string>
     <string name="template_insert_hint">在此處插入模板文本</string>
     <string name="template_empty_text">文本字段不可爲空</string>
-    <string name="template_save">存儲</string>
+    <string name="template_save">儲存</string>
     <string name="template_ctx_menu_title">操作</string>
     <string name="template_edit">編輯</string>
     <string name="template_delete">刪除</string>
@@ -188,7 +188,7 @@
     <!-- 回车键操作 -->
     <string name="pref_title_mms_enter_action">確認鍵功能</string>
     <string name="pref_mms_enter_new_line">強制換行</string>
-    <string name="pref_mms_enter_default">默認</string>
+    <string name="pref_mms_enter_default">預設</string>
 
     <!-- Delay delivery -->
     <!-- 取消发送延时 -->
